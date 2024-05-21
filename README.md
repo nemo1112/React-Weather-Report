@@ -2,8 +2,6 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contact](#contact)
-
-
    
 ## Installation
 In the project directory, you can run:
@@ -15,7 +13,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## Usage
 
-App ตรวจสอบสภาพอาการโดยพิมพ์ชื่อเมืองที่ต้องการ ได้ทั้งภาษาไทยและอังกฤษ
+App ตรวจสอบสภาพอากาศโดยพิมพ์ชื่อเมืองที่ต้องการ ได้ทั้งภาษาไทยและภาษาอังกฤษ
 
 โปรแกรม เชื่อมต่อกับ API ของ Open Weather
 
